@@ -10,16 +10,19 @@ not working functionally. So I hope I will have a deeper understanding about thi
   
 # The important of asking the right questions. 
     Lean on client as much as possible to do the right work and get better goal.
-## How do you know the site is slow? If the client says they feels slow, it is the client emotional, you are likely to have a lot of works.
+## How do you know the site is slow? 
+    If the client says they feels slow, it is the client emotional, you are likely to have a lot of works.
     If the client says 90% users say it slow then you probably have a client who understands their problem
     
-## What key areas of the sire should I look at? Harry had to look every page and the lesson here is ask client for specific. Ask them what important
-    part needs to be faster: product detail page, search engine or something. This will save a lot of time. 
+## What key areas of the sire should I look at? 
+    Harry had to look every page and the lesson here is ask client for specific. Ask them what important part needs to be faster: product detail page, search engine or something. This will save a lot of time. 
     
-## What will it being faster mean for the business? Determine the meaning of having a fast website to the client's company. Fast website doesn't make benefit for company.
+## What will it being faster mean for the business? 
+    Determine the meaning of having a fast website to the client's company. Fast website doesn't make benefit for company.
     Company like Amazon needs their website to be fast because people are buying products on their website, the faster the web works, the more benefits they make. 
     
-## How do you intend to measure this? Harry Robert measure miliseconds but what your client wants? 1 seconds faster or 2 seconds faster or 3 times faster? 
+## How do you intend to measure this? 
+    Harry Robert measure miliseconds but what your client wants? 1 seconds faster or 2 seconds faster or 3 times faster? 
     Focus on the needs of client
     
 ## Faster website is just one factor of a good performance web besides user friendly, working functionally, it has to be a part of the big picture. 
@@ -31,7 +34,7 @@ not working functionally. So I hope I will have a deeper understanding about thi
 # You can't fix what you can't measure 
 
 ## Gather data 
-  Gathering data  is the most important work. "Spend time gathering statistics then spend some more". It is never too much data.
+    Gathering data  is the most important work. "Spend time gathering statistics then spend some more". It is never too much data.
 ### Google Analytics is the most common tool but not ideal
       ⋅⋅* It gives average data means but we want percentiles 
       ⋅⋅* It only samples 1% of sessions and that is insufficient for many sites
@@ -50,6 +53,8 @@ not working functionally. So I hope I will have a deeper understanding about thi
  # What has most impact 
     After knowing which one works or doesn't, you will know where to look next time and what to avoid next time. This saves you time for the next project.
 
-# Final reflections: I can apply all the process to my code learning process. Take time slow, learn step by step, do research before coding. I also have a more clear vision 
-of the problems I could have in the future. 
-# Questions I still have regarding that topic: How do I get into this career? 
+# Final reflections: 
+    I can apply all the process to my code learning process. Take time slow, learn step by step, do research before coding. I also have a more clear vision 
+    of the problems I could have in the future. 
+# Questions I still have regarding that topic: 
+    How do I get into this career? 
