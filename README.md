@@ -10,19 +10,19 @@ not working functionally. So I hope I will have a deeper understanding about thi
   
 # The important of asking the right questions. 
     Lean on client as much as possible to do the right work and get better goal.
-    ## How do you know the site is slow? If the client says they feels slow, it is the client emotional, you are likely to have a lot of works.
+## How do you know the site is slow? If the client says they feels slow, it is the client emotional, you are likely to have a lot of works.
     If the client says 90% users say it slow then you probably have a client who understands their problem
     
-    ## What key areas of the sire should I look at? Harry had to look every page and the lesson here is ask client for specific. Ask them what important
+## What key areas of the sire should I look at? Harry had to look every page and the lesson here is ask client for specific. Ask them what important
     part needs to be faster: product detail page, search engine or something. This will save a lot of time. 
     
-    ## What will it being faster mean for the business? Determine the meaning of having a fast website to the client's company. Fast website doesn't make benefit for company.
+## What will it being faster mean for the business? Determine the meaning of having a fast website to the client's company. Fast website doesn't make benefit for company.
     Company like Amazon needs their website to be fast because people are buying products on their website, the faster the web works, the more benefits they make. 
     
-    ## How do you intend to measure this? Harry Robert measure miliseconds but what your client wants? 1 seconds faster or 2 seconds faster or 3 times faster? 
+## How do you intend to measure this? Harry Robert measure miliseconds but what your client wants? 1 seconds faster or 2 seconds faster or 3 times faster? 
     Focus on the needs of client
     
-    ## Faster website is just one factor of a good performance web besides user friendly, working functionally, it has to be a part of the big picture. 
+## Faster website is just one factor of a good performance web besides user friendly, working functionally, it has to be a part of the big picture. 
   
 #  Improve the speed of web running but still keep same number of ads 
    Some customers need to keep the same amount of ads or even add more ads. In this case, a Web performance engineer has to find the intersection between 
@@ -30,9 +30,9 @@ not working functionally. So I hope I will have a deeper understanding about thi
   
 # You can't fix what you can't measure 
 
-  ## Gather data 
+## Gather data 
   Gathering data  is the most important work. "Spend time gathering statistics then spend some more". It is never too much data.
-    ### Google Analytics is the most common tool but not ideal
+### Google Analytics is the most common tool but not ideal
       ⋅⋅* It gives average data means but we want percentiles 
       ⋅⋅* It only samples 1% of sessions and that is insufficient for many sites
       ⋅⋅* It is too coarse. it gives total data on every device, browser, page, region
@@ -45,7 +45,7 @@ not working functionally. So I hope I will have a deeper understanding about thi
 # Move slow to move fast 
   The more digging data at beginning, the quicker the rest project goes. Takes time to collect the data before jump into the project, that will saves a lot of time.
   
-  ## Only release one thematic per day. By doing that, you will know which one works, which still needs improvement and which to fix.
+## Only release one thematic per day. By doing that, you will know which one works, which still needs improvement and which to fix.
   
  # What has most impact 
     After knowing which one works or doesn't, you will know where to look next time and what to avoid next time. This saves you time for the next project.
